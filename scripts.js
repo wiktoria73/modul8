@@ -1,5 +1,6 @@
 // scripts.js
 
-var name = prompt('Enter youur name');
-alert('Hello, ' + name);
-console.log('Hello, ' + name);
+// line below has to be changed
+var name = prompt('Enter your name');
+// alert('Hello, ' + name);
+/* console.log('Hello, ' + name); */
