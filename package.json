@@ -1,0 +1,27 @@
+{
+  "name": "modul8",
+  "version": "1.0.0",
+  "description": "js project",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiktoria73/modul8.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Wiktoria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiktoria73/modul8/issues"
+  },
+  "homepage": "https://github.com/wiktoria73/modul8#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
